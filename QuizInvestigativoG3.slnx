@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PedidosService/PedidosService.csproj" />
+  <Project Path="UsuariosService/UsuariosService.csproj" />
+</Solution>
